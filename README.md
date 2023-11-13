@@ -1,4 +1,4 @@
-# JPMorgan Virtual Internship
+# JP Morgan Virtual Internship
 This virtual internship was under JP Morgan Chase and Co. by Forage for Excel Skills.
 
 ### Problem Statment
