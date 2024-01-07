@@ -24,6 +24,7 @@ Utilized macros in Excel and create two macros using same spreadsheet that was m
 Created a simple dashboard using the account sales dataset
 - Created macros to assist with disaggregating data by multiple years
 - Utlized pivot tables and charts to create dashboard.
+
 ![image](https://github.com/sanyavirmani/JP-Morgan-Chase-Virtual-Internship/assets/114525205/89b262f4-166f-4371-ac76-2c6d22144afb)
 
 ## Task 5: Data-Driven Storytelling
